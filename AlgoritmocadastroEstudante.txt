@@ -1,0 +1,24 @@
+grava qtdeEstudantes = 0
+estudantes[100]
+i=0
+
+pede para o usuario o nome do estudante
+grava nome do estudante
+grava estudantes no indice qtdeEstudantes com valor nome
+soma qtdeEstudantes + 1
+pergunta se deseja gravar mais 
+grava a resposta
+
+enquanto resposta for igual a s ou S
+pede para o usuario o nome do estudante
+grava estudantes no indice qtdeEstudantes com valor nome
+soma qtdeEstudantes + 1
+pergunta se deseja gravar mais 
+grava a resposta
+
+mostre quantidade de estudantes
+
+enquanto i<qtdeEstudantes{
+mostre estudantes no indice i
+}
+
