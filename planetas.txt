@@ -1,0 +1,7 @@
+grava array planetas com Terra", "Marte", "Plutão", "Vênus", "Júpiter", "Saturno"
+pede para o usuario digitar um planeta
+grava planeta
+ se planetas contem em planetas
+	digite planeta ja existe
+ senao 
+ digite esse planeta nao esta dentro 
